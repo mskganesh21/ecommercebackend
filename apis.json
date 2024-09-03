@@ -1,0 +1,129 @@
+{
+  "apiGroups": [
+    {
+      "title": "authentication apis",
+      "apis": [
+        {
+          "name": "register",
+          "link": "http://localhost:8082/api/user/register"
+        },
+        {
+          "name": "login",
+          "link": "http://localhost:8082/api/user/login"
+        },
+        {
+          "name": "private",
+          "link": "http://localhost:8082/api/private/home"
+        },
+        {
+          "name": "reauthenticate",
+          "link": "http://localhost:8082/api/user/refresh"
+        }
+      ]
+    },
+    {
+      "title": "category apis",
+      "apis": [
+        {
+          "name": "create-category",
+          "link": "http://localhost:8082/api/category/createcategory"
+        },
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/category/getallcategories"
+        }
+      ]
+    },
+    {
+      "title": "Stock apis",
+      "apis": [
+        {
+          "name": "get-stock-of-a-product",
+          "link": "http://localhost:8082/api/stock/getstock/:id"
+        },
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/stock/addstock/:id"
+        },
+        ,
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/stock/removestock/:id"
+        },
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/stock/updatestock/:id"
+        },
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/stock/getallstock"
+        }
+      ]
+    },
+    {
+      "title": "Price apis",
+      "apis": [
+        {
+          "name": "get-stock-of-a-product",
+          "link": "http://localhost:8082/api/price/addprice/:id"
+        },
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/price/getprice/:id"
+        },
+        ,
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/price/updateprice/:id"
+        },
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/price/removeprice/:id"
+        }
+      ]
+    },
+    {
+      "title": "Review apis",
+      "apis": [
+        {
+          "name": "get-stock-of-a-product",
+          "link": "http://localhost:8082/api/review/addreview/:id"
+        },
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/review/getreviews/:id"
+        },
+        ,
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/review/updatereview/:id"
+        },
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/review/removereview/:id"
+        }
+      ]
+    },
+    {
+      "title": "product apis",
+      "apis": [
+        {
+          "name": "create-category",
+          "link": "http://localhost:8082/api/product/addproduct"
+        },
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/product/getallproducts"
+        },
+        {
+          "name": "create-category",
+          "link": "http://localhost:8082/api/product/deleteproduct/:id"
+        },
+        {
+          "name": "get-all-categories",
+          "link": "http://localhost:8082/api/product/updateproduct/:id"
+        }
+      ]
+    }
+  ]
+}

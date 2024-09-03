@@ -1,0 +1,5581 @@
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:52:16.752Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:52:16.766Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:52:23.895Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 15.229 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:52:23.899Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:52:24.989Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 16.036 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:52:24.991Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:53:56.811Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.360 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:53:56.813Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:00.314Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.866 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:00.316Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:00.891Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.491 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:00.892Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:01.458Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.992 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:01.460Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:02.020Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.377 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:02.021Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:02.410Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.629 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:02.412Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:02.747Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.231 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:02.749Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:03.139Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.437 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:03.141Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:03.523Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.208 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:03.525Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:03.898Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.156 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:03.899Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:04.241Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.342 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:04.243Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:04.556Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.303 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:04.557Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:04.817Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.015 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:04.818Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:05.130Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.167 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:05.132Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:05.722Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 3.704 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:05.723Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:06.787Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.179 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:06.788Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:07.314Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.316 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:07.316Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:07.762Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 3.975 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:07.763Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:08.242Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.276 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:08.244Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:08.755Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.491 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:08.757Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:09.283Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.668 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:09.284Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:09.762Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.079 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:09.763Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:10.225Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.286 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:10.227Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:10.577Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 3.750 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:10.578Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:10.969Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 3.754 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:10.971Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:11.265Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 3.204 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:11.266Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:54:11.481Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 3.871 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:11.482Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:58.499Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:54:58.512Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:55:00.652Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 47.754 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:55:00.657Z'
+}
+{
+  userId: 'anonymous',
+  info: TokenExpiredError: jwt expired
+      at E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:190:21
+      at getSecret (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:97:14)
+      at module.exports [as verify] (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:101:10)
+      at module.exports [as JwtVerifier] (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+      at E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:104:25
+      at JwtStrategy._secretOrKeyProvider (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:40:13)
+      at JwtStrategy.authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:99:10)
+      at attempt (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:378:16)
+      at authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:379:7)
+      at AuthenticateJWT (file:///E:/aug2024projects/nodejsbackend/middleware/AuthenticateJWT.js:68:5) {
+    expiredAt: 2024-08-28T03:55:22.000Z
+  },
+  level: 'warn',
+  message: 'Unauthorized access attempt',
+  timestamp: '2024-08-28T03:56:32.917Z'
+}
+{
+  message: 'GET /api/private/home 401 63 - 51.870 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:56:32.920Z'
+}
+{
+  message: 'POST /api/user/refresh 200 263 - 7.003 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:56:32.955Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:56:33.009Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 48.456 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:56:33.011Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:57:33.014Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 46.945 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:57:33.015Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:57:37.337Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 51.429 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:57:37.339Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:58:18.898Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 43.035 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:58:18.899Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:58:22.693Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 46.408 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:58:22.694Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:58:23.324Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 38.044 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:58:23.326Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:58:23.887Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 49.326 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:58:23.889Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:58:27.167Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 40.527 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:58:27.168Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:58:27.948Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 44.710 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:58:27.950Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:58:28.378Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 52.348 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:58:28.380Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T03:58:28.604Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 38.910 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T03:58:28.605Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:00:18.867Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 45.558 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:00:18.869Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:00:20.082Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 36.750 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:00:20.083Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:00:20.839Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 42.523 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:00:20.841Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:00:21.625Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 42.871 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:00:21.626Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:04:33.471Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:04:33.484Z'
+}
+{
+  userId: 'anonymous',
+  info: TokenExpiredError: jwt expired
+      at E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:190:21
+      at getSecret (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:97:14)
+      at module.exports [as verify] (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:101:10)
+      at module.exports [as JwtVerifier] (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+      at E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:104:25
+      at JwtStrategy._secretOrKeyProvider (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:40:13)
+      at JwtStrategy.authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:99:10)
+      at attempt (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:378:16)
+      at authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:379:7)
+      at AuthenticateJWT (file:///E:/aug2024projects/nodejsbackend/middleware/AuthenticateJWT.js:112:5) {
+    expiredAt: 2024-08-28T04:01:32.000Z
+  },
+  level: 'warn',
+  message: 'Unauthorized access attempt',
+  timestamp: '2024-08-28T04:04:49.940Z'
+}
+{
+  message: 'GET /api/private/home 401 63 - 7.184 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:04:49.946Z'
+}
+{
+  message: 'POST /api/user/refresh 200 263 - 12.696 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:04:49.978Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:04:49.989Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.205 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:04:49.991Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:05:02.317Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.873 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:05:02.318Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:05:02.963Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.367 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:05:02.965Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:05:03.388Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.189 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:05:03.389Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:05:03.740Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.585 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:05:03.741Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:05:04.036Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.194 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:05:04.037Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:05:04.259Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.691 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:05:04.260Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:05:04.467Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.118 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:05:04.468Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:06:22.581Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.508 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:06:22.583Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:06:24.875Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.554 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:06:24.877Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:23:00.816Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:23:00.830Z'
+}
+{
+  userId: 'anonymous',
+  info: TokenExpiredError: jwt expired
+      at E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:190:21
+      at getSecret (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:97:14)
+      at module.exports [as verify] (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:101:10)
+      at module.exports [as JwtVerifier] (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+      at E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:104:25
+      at JwtStrategy._secretOrKeyProvider (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:40:13)
+      at JwtStrategy.authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:99:10)
+      at attempt (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:378:16)
+      at authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:379:7)
+      at AuthenticateJWT (file:///E:/aug2024projects/nodejsbackend/middleware/AuthenticateJWT.js:112:5) {
+    expiredAt: 2024-08-28T04:09:49.000Z
+  },
+  level: 'warn',
+  message: 'Unauthorized access attempt',
+  timestamp: '2024-08-28T04:23:06.909Z'
+}
+{
+  message: 'GET /api/private/home 401 63 - 15.207 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:23:06.916Z'
+}
+{
+  message: 'POST /api/user/refresh 200 263 - 20.323 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:23:06.976Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:23:07.005Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 7.395 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:23:07.006Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:24:19.992Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 6.967 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:24:19.994Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:24:20.929Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 6.830 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:24:20.931Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:24:21.401Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.803 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:24:21.403Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:51:37.611Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:51:37.629Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:52:25.431Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:52:25.445Z'
+}
+{
+  userId: 'anonymous',
+  info: TokenExpiredError: jwt expired
+      at E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:190:21
+      at getSecret (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:97:14)
+      at module.exports [as verify] (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:101:10)
+      at module.exports [as JwtVerifier] (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+      at E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:104:25
+      at JwtStrategy._secretOrKeyProvider (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:40:13)
+      at JwtStrategy.authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:99:10)
+      at attempt (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:378:16)
+      at authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:379:7)
+      at AuthenticateJWT (file:///E:/aug2024projects/nodejsbackend/middleware/AuthenticateJWT.js:182:5) {
+    expiredAt: 2024-08-28T04:28:06.000Z
+  },
+  level: 'warn',
+  message: 'Unauthorized access attempt',
+  timestamp: '2024-08-28T04:52:30.951Z'
+}
+{
+  message: 'GET /api/private/home 401 63 - 7.176 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:52:30.957Z'
+}
+{
+  message: 'POST /api/user/refresh 200 263 - 71.454 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:52:31.061Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:52:31.079Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 10.632 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:52:31.082Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:44.836Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 7.803 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:44.839Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:47.739Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 6.357 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:47.741Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:48.410Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.417 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:48.412Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:48.897Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 16.493 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:48.910Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:49.209Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.866 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:49.210Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:49.433Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 6.140 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:49.436Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:49.643Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.502 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:49.646Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:49.811Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.391 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:49.813Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:49.977Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 6.129 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:49.979Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:50.153Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.423 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:50.154Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:50.342Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.761 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:50.344Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:50.505Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.370 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:50.506Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:50.689Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.222 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:50.691Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:50.848Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.857 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:50.850Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:51.025Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.645 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:51.026Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:51.202Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.608 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:51.204Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:51.384Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.842 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:51.385Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:51.552Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.735 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:51.555Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:51.728Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.705 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:51.730Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:51.909Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.435 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:51.910Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:52.080Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.904 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:52.081Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:52.256Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.030 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:52.257Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:52.426Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.584 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:52.427Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:52.595Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.532 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:52.597Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:52.776Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.819 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:52.778Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:52.954Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.155 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:52.956Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:56.934Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 8.254 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:56.936Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:58.336Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.535 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:58.338Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:58.813Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 7.343 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:58.815Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:59.161Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.695 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:59.162Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:59.492Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 7.563 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:59.494Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:59.717Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 12.338 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:59.721Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:53:59.913Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.993 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:53:59.914Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:00.115Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 7.111 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:00.117Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:00.301Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.973 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:00.302Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:00.465Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.334 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:00.466Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:00.645Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.976 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:00.646Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:00.822Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 7.055 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:00.824Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:00.995Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.316 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:00.997Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:01.197Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 6.911 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:01.199Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:01.372Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 7.838 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:01.374Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:01.556Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 6.240 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:01.557Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:01.721Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.676 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:01.722Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:01.900Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.013 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:01.901Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:02.091Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.766 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:02.093Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:09.822Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.853 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:09.823Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:10.540Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.926 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:10.542Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:11.092Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 9.238 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:11.095Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:11.539Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.753 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:11.540Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:45.364Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 7.217 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:45.366Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:46.137Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.776 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:46.138Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:46.609Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.424 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:46.610Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:46.996Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 4.315 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:46.997Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:54:47.269Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 7.093 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:54:47.270Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T04:56:00.212Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 5.615 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:56:00.213Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:59:51.891Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T04:59:51.904Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:00:30.713Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:00:30.726Z'
+}
+{
+  userId: 'anonymous',
+  info: TokenExpiredError: jwt expired
+      at E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:190:21
+      at getSecret (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:97:14)
+      at module.exports [as verify] (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:101:10)
+      at module.exports [as JwtVerifier] (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+      at E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:104:25
+      at JwtStrategy._secretOrKeyProvider (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:40:13)
+      at JwtStrategy.authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:99:10)
+      at attempt (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:378:16)
+      at authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:379:7)
+      at AuthenticateJWT (file:///E:/aug2024projects/nodejsbackend/middleware/AuthenticateJWT.js:268:5) {
+    expiredAt: 2024-08-28T04:57:31.000Z
+  },
+  level: 'warn',
+  message: 'Unauthorized access attempt',
+  timestamp: '2024-08-28T05:00:45.056Z'
+}
+{
+  message: 'GET /api/private/home 401 63 - 11.898 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:00:45.062Z'
+}
+{
+  message: 'POST /api/user/refresh 200 263 - 14.659 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:00:45.101Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T05:00:45.121Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 13.059 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:00:45.123Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T05:02:13.058Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 13.087 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:02:13.060Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T05:02:15.169Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 18.551 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:02:15.170Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T05:02:15.767Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 15.593 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:02:15.769Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:02:32.375Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:02:32.388Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:02:47.879Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:02:47.893Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T05:02:54.378Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 33.840 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:02:54.389Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:05:17.446Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:05:17.460Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T05:05:30.211Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 31.046 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:05:30.216Z'
+}
+{
+  userId: 'anonymous',
+  info: TokenExpiredError: jwt expired
+      at E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:190:21
+      at getSecret (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:97:14)
+      at module.exports [as verify] (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:101:10)
+      at module.exports [as JwtVerifier] (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+      at E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:104:25
+      at JwtStrategy._secretOrKeyProvider (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:40:13)
+      at JwtStrategy.authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:99:10)
+      at attempt (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:378:16)
+      at authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:379:7)
+      at AuthenticateJWT (file:///E:/aug2024projects/nodejsbackend/middleware/AuthenticateJWT.js:81:5) {
+    expiredAt: 2024-08-28T05:05:45.000Z
+  },
+  level: 'warn',
+  message: 'Unauthorized access attempt',
+  timestamp: '2024-08-28T05:06:39.475Z'
+}
+{
+  message: 'GET /api/private/home 401 63 - 8.853 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:06:39.479Z'
+}
+{
+  message: 'POST /api/user/refresh 200 263 - 5.206 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:06:39.510Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T05:06:39.530Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 8.647 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:06:39.531Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T05:06:50.487Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 10.226 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:06:50.489Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T05:06:50.980Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 8.141 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:06:50.981Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T05:06:51.424Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 10.067 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:06:51.426Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T05:06:51.891Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 11.421 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:06:51.893Z'
+}
+{
+  userId: 'anonymous',
+  info: TokenExpiredError: jwt expired
+      at E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:190:21
+      at getSecret (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:97:14)
+      at module.exports [as verify] (E:\aug2024projects\nodejsbackend\node_modules\jsonwebtoken\verify.js:101:10)
+      at module.exports [as JwtVerifier] (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\verify_jwt.js:4:16)
+      at E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:104:25
+      at JwtStrategy._secretOrKeyProvider (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:40:13)
+      at JwtStrategy.authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport-jwt\lib\strategy.js:99:10)
+      at attempt (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:378:16)
+      at authenticate (E:\aug2024projects\nodejsbackend\node_modules\passport\lib\middleware\authenticate.js:379:7)
+      at AuthenticateJWT (file:///E:/aug2024projects/nodejsbackend/middleware/AuthenticateJWT.js:81:5) {
+    expiredAt: 2024-08-28T05:07:39.000Z
+  },
+  level: 'warn',
+  message: 'Unauthorized access attempt',
+  timestamp: '2024-08-28T05:08:05.643Z'
+}
+{
+  message: 'GET /api/private/home 401 63 - 5.085 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:08:05.646Z'
+}
+{
+  message: 'POST /api/user/refresh 200 263 - 6.404 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:08:05.662Z'
+}
+{
+  userId: '66ce0353510f41540beda599',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-08-28T05:08:05.680Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 8.064 ms 66ce0353510f41540beda599',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:08:05.681Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:09:25.707Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:09:25.720Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:26:12.276Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T05:26:12.290Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T08:45:48.787Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T08:45:48.813Z'
+}
+{
+  message: 'POST /api/user/login 200 257 - 143.976 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T08:46:36.628Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:28:38.967Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:28:38.994Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 20.399 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:30:27.727Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 4.671 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:30:54.978Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 2.842 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:31:04.152Z'
+}
+{
+  message: 'GET /api/category/getallcategories 200 501 - 8.603 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:31:57.704Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:34:42.640Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:34:42.654Z'
+}
+{
+  message: 'GET /api/category/getallcategories 200 102 - 11.869 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:34:48.214Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:37:13.210Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:37:13.233Z'
+}
+{
+  message: 'GET /api/category/getallcategories 200 75 - 13.904 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:37:17.305Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:45:13.627Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:45:13.641Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:45:25.277Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:45:25.291Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:45:49.272Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:45:49.285Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:48:53.388Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:48:53.402Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:49:08.708Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:49:08.721Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:50:27.152Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:50:27.166Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:50:37.524Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:50:37.538Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:52:48.689Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T09:52:48.703Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:24:37.380Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:24:37.402Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:40:20.995Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:40:21.010Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:46:56.000Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:46:56.013Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:47:21.246Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:47:21.259Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:48:03.022Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:48:03.036Z'
+}
+{
+  message: 'GET /api/category/getallcategories 200 123 - 16.307 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:48:09.910Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:49:43.240Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:49:43.253Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:52:10.208Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T12:52:10.223Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:04:00.899Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:04:00.912Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:18:44.746Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:18:44.762Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:19:11.466Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:19:11.480Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:19:48.495Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:19:48.509Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:25:26.854Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:25:26.870Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:25:45.645Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:25:45.659Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:25:58.051Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:25:58.064Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:26:04.267Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:26:04.282Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:27:03.389Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:27:03.403Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:27:08.842Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:27:08.855Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:27:14.922Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:27:14.936Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:27:17.543Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:27:17.556Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:30:00.132Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:30:00.146Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:31:10.442Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:31:10.456Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:31:58.370Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:31:58.384Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:32:38.764Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:32:38.777Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:38:38.883Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:38:38.896Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:38:52.585Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:38:52.598Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:39:06.049Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:39:06.063Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:39:30.722Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:39:30.738Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:40:29.167Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:40:29.180Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:41:15.204Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:41:15.219Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:41:41.664Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:41:41.678Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:42:20.749Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:42:20.762Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:42:43.530Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:42:43.544Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:43:05.138Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:43:05.152Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:43:19.440Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:43:19.453Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:45:30.279Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:45:30.293Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:46:20.046Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T13:46:20.059Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:22:13.142Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:22:13.156Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:23:17.525Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:23:17.538Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:26:13.279Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:26:13.293Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:26:23.828Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:26:23.841Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:27:13.396Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:27:13.411Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:29:15.507Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:29:15.520Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:32:11.345Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:32:11.359Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:40:33.536Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:40:33.550Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:40:59.288Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:40:59.304Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:41:23.542Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:41:23.556Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:43:16.238Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:43:16.251Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:45:47.113Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:45:47.128Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:52:52.592Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T14:52:52.605Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T15:06:21.028Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T15:06:21.043Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T15:09:20.491Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T15:09:20.507Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T15:13:24.283Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T15:13:24.296Z'
+}
+{
+  message: 'GET /api/category/getallcategories 200 123 - 32.027 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T16:09:07.375Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T16:11:25.653Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T16:11:25.666Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T16:27:01.871Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T16:27:01.921Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T16:29:14.698Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T16:29:14.732Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T16:34:22.500Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-28T16:34:22.534Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T02:57:49.745Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T02:57:49.779Z'
+}
+{
+  message: 'POST /api/user/register 201 106 - 271.963 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:01:46.974Z'
+}
+{
+  message: 'POST /api/user/login 200 257 - 222.660 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:02:15.095Z'
+}
+{
+  message: 'POST /api/user/refresh 200 263 - 12.332 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:03:19.413Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1484 - 92.102 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:18:23.581Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1484 - 8.196 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:19:38.863Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 1446 - 13.934 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:20:03.202Z'
+}
+{
+  message: 'DELETE /api/product/deleteproduct/:66cfe87f66356e6ed2b5424b 500 73 - 33.669 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:20:50.921Z'
+}
+{
+  message: 'DELETE /api/product/deleteproduct/66cfe87f66356e6ed2b5424b 200 1484 - 19.878 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:21:34.798Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1484 - 6.471 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:21:51.445Z'
+}
+{
+  message: 'PUT /api/product/updateproduct/66cfe94f66356e6ed2b5425d 200 1490 - 21.640 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:24:05.471Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1484 - 6.073 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:25:16.906Z'
+}
+{
+  message: 'PUT /api/product/updateproduct/66cfea1c66356e6ed2b54269 200 1490 - 15.606 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:25:55.419Z'
+}
+{
+  message: 'DELETE /api/product/deleteproduct/66cfea1c66356e6ed2b54269 200 1490 - 2.964 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:26:27.997Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1484 - 9.979 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:27:40.537Z'
+}
+{
+  message: 'GET /api/price/getprice/66cfeaac66356e6ed2b54279 404 67 - 15.855 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:28:11.876Z'
+}
+{
+  message: 'POST /api/price/addprice/66cfeaac66356e6ed2b54279 500 73 - 19.912 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:30:40.680Z'
+}
+{
+  message: 'POST /api/price/addprice/66cfeaac66356e6ed2b54279 500 73 - 14.064 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:31:50.905Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:32:29.494Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:32:29.516Z'
+}
+{
+  message: 'POST /api/price/addprice/66cfeaac66356e6ed2b54279 201 292 - 16.145 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:32:33.416Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:33:19.141Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:33:19.156Z'
+}
+{
+  message: 'GET /api/price/getprice/66cfeaac66356e6ed2b54279 200 245 - 46.677 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:33:39.490Z'
+}
+{
+  message: 'DELETE /api/price/removeprice/66cfeaac66356e6ed2b54279 200 78 - 4.020 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:33:46.115Z'
+}
+{
+  message: 'POST /api/price/addprice/66cfeaac66356e6ed2b54279 201 292 - 12.962 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:33:50.566Z'
+}
+{
+  message: 'PUT /api/price/updateprice/66cfeaac66356e6ed2b54279 200 294 - 5.871 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:34:03.246Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 3.130 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:35:50.875Z'
+}
+{
+  message: 'GET /api/category/getallcategories 200 146 - 3.945 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:35:55.425Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 2.492 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:36:04.846Z'
+}
+{
+  message: 'GET /api/category/getallcategories 200 170 - 2.492 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:36:15.514Z'
+}
+{
+  message: 'GET /api/stock/getstock/66cfeaac66356e6ed2b54279 404 92 - 2.501 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:37:23.556Z'
+}
+{
+  message: 'GET /api/stock/getallstock 200 40 - 2.260 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:37:54.337Z'
+}
+{
+  message: 'POST /api/stock/addstock/66cfeaac66356e6ed2b54279 200 84 - 15.159 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:43:44.693Z'
+}
+{
+  message: 'GET /api/stock/getstock/66cfeaac66356e6ed2b54279 200 913 - 4.763 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:43:55.504Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:44:51.681Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:44:51.706Z'
+}
+{
+  message: 'GET /api/stock/getstock/66cfeaac66356e6ed2b54279 200 872 - 24.721 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:44:56.253Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:45:26.902Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:45:26.917Z'
+}
+{
+  message: 'GET /api/stock/getstock/66cfeaac66356e6ed2b54279 200 833 - 14.897 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:45:29.375Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:46:02.576Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:46:02.594Z'
+}
+{
+  message: 'GET /api/stock/getstock/66cfeaac66356e6ed2b54279 200 833 - 15.660 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:46:06.269Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:48:04.565Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:48:04.584Z'
+}
+{
+  message: 'GET /api/stock/getstock/66cfeaac66356e6ed2b54279 200 536 - 15.292 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:48:08.716Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:48:30.824Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:48:30.839Z'
+}
+{
+  message: 'GET /api/stock/getstock/66cfeaac66356e6ed2b54279 200 458 - 15.420 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:48:33.397Z'
+}
+{
+  message: 'GET /api/stock/getallstock 200 2282 - 17.463 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:49:35.147Z'
+}
+{
+  message: 'PUT /api/stock/updatestock/66cfeaac66356e6ed2b54279 200 78 - 24.102 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:50:40.417Z'
+}
+{
+  message: 'DELETE /api/stock/removestock/66cfeaac66356e6ed2b54279 404 100 - 3.948 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T03:51:06.120Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T04:02:26.167Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T04:02:26.180Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T04:06:00.907Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T04:06:00.922Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T04:12:58.968Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T04:12:58.982Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T04:39:00.955Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T04:39:00.969Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 2370 - 27.666 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T04:43:43.784Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1485 - 6.742 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T04:46:31.836Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T04:48:15.608Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-29T04:48:15.624Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:19:14.771Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:19:14.812Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:22:15.317Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:22:15.355Z'
+}
+{
+  message: 'POST /api/review/addreview/66cfeaac66356e6ed2b54279 201 377 - 41.769 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:24:32.559Z'
+}
+{
+  message: 'GET /api/review/getreviews/66cfeaac66356e6ed2b54279 200 330 - 29.869 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:25:06.809Z'
+}
+{
+  message: 'DELETE /api/review/removereview/66cfeaac66356e6ed2b54279 404 68 - 12.589 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:25:24.720Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:26:12.594Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:26:12.628Z'
+}
+{
+  message: 'DELETE /api/review/removereview/66d149807c5a61f205163363 200 79 - 63.471 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:26:31.182Z'
+}
+{
+  message: 'POST /api/review/addreview/66cfeaac66356e6ed2b54279 201 377 - 47.758 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:26:38.379Z'
+}
+{
+  message: 'POST /api/user/login 200 257 - 325.803 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:56:32.318Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:57:19.867Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:57:19.904Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:57:30.039Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:57:30.107Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:57:37.813Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:57:37.846Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:58:01.102Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T04:58:01.142Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T05:01:41.167Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T05:01:41.202Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T05:03:29.700Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T05:03:29.734Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T05:11:29.982Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T05:11:29.996Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T05:12:03.896Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T05:12:03.912Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T05:13:18.903Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T05:13:18.918Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T05:14:14.352Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T05:14:14.365Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T06:04:00.542Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T06:04:00.564Z'
+}
+{
+  message: 'POST /api/banner/addbanner 201 753 - 22.833 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T06:05:24.195Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T06:53:41.034Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T06:53:41.056Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T06:53:48.673Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T06:53:48.688Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T06:55:34.256Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T06:55:34.271Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T06:59:32.615Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T06:59:32.629Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T07:00:12.742Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T07:00:12.757Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T07:00:51.421Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T07:00:51.435Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T07:01:53.062Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T07:01:53.079Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T07:02:21.452Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T07:02:21.467Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:05:48.833Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:05:48.858Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:10:21.658Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:10:21.673Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:12:14.567Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:12:14.580Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:12:46.855Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:12:46.869Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1551 - 28.950 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:14:05.160Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1551 - 9.455 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:15:03.696Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1551 - 9.488 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:15:44.692Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1551 - 10.693 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:15:53.120Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1551 - 9.561 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:16:03.455Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1551 - 10.152 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:16:38.315Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 2428 - 69.633 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:45:22.579Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 2428 - 54.821 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:45:34.829Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 2428 - 19.831 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:45:44.052Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 2428 - 18.182 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:46:00.738Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 2428 - 15.481 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:46:13.841Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1558 - 11.180 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:47:36.285Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1558 - 12.698 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:47:46.795Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1558 - 48.107 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:47:55.253Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1558 - 12.857 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:48:04.827Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1558 - 10.559 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:48:14.887Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:52:12.981Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:52:13.028Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:52:25.655Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:52:25.698Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:54:23.814Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:54:23.857Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:54:41.012Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T09:54:41.046Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:00:12.224Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:00:12.263Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:01:17.000Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:01:17.033Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:01:19.746Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:01:19.815Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:03:21.954Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:03:22.029Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:06:11.645Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:06:11.687Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:06:16.403Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:06:16.473Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:06:21.221Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:06:21.262Z'
+}
+{
+  message: 'POST /api/product/addproduct 500 73 - 52.875 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:07:18.628Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:09:16.957Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:09:16.995Z'
+}
+{
+  message: 'POST /api/product/addproduct 500 73 - 49.357 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:09:21.850Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:11:13.079Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:11:13.117Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1584 - 75.146 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T10:11:19.688Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T13:50:49.216Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T13:50:49.231Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1584 - 39.101 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T13:51:37.656Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1584 - 23.305 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T13:52:53.314Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1584 - 15.178 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-30T13:54:05.676Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:24:43.220Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:24:43.251Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:25:31.991Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:25:32.009Z'
+}
+{
+  message: 'POST /api/user/register 400 131 - 10.998 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:25:45.895Z'
+}
+{
+  message: 'POST /api/user/register 400 122 - 2.312 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:26:18.412Z'
+}
+{
+  message: 'POST /api/user/register 400 124 - 1.449 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:26:35.936Z'
+}
+{
+  message: 'POST /api/user/register 409 86 - 24.054 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:26:43.794Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:30:44.619Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:30:44.637Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:35:32.800Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:35:32.819Z'
+}
+{
+  message: 'POST /api/user/register 400 375 - 11.286 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:35:46.351Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:36:13.772Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:36:13.789Z'
+}
+{
+  message: 'POST /api/user/register 400 379 - 7.759 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:36:15.795Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:36:35.958Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:36:35.974Z'
+}
+{
+  message: 'POST /api/user/register 400 376 - 7.459 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:36:38.040Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:37:13.279Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:37:13.292Z'
+}
+{
+  message: 'POST /api/user/register 500 1354 - 5.170 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:37:15.680Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:40:02.624Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:40:02.639Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:41:09.144Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:41:09.160Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:46:52.581Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:46:52.597Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:47:06.589Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:47:06.602Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:47:16.106Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T06:47:16.121Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T09:59:19.802Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T09:59:19.854Z'
+}
+{
+  message: 'POST /api/user/register 400 362 - 17.970 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T09:59:21.718Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T09:59:39.369Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T09:59:39.401Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T10:03:41.048Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T10:03:41.087Z'
+}
+{
+  message: 'POST /api/user/register 400 362 - 18.535 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T10:03:45.563Z'
+}
+{
+  message: 'POST /api/user/register 409 86 - 48.194 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-08-31T10:06:10.737Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T08:53:08.763Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T08:53:08.781Z'
+}
+{
+  message: 'POST /api/user/register 201 106 - 135.678 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T08:55:45.060Z'
+}
+{
+  message: 'POST /api/user/login 200 257 - 97.605 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T08:56:06.923Z'
+}
+{
+  message: 'POST /api/user/refresh 200 263 - 7.359 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T08:56:35.551Z'
+}
+{
+  userId: '66d42c11ee4f82ced979e014',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-09-01T08:57:09.309Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 18.728 ms 66d42c11ee4f82ced979e014',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T08:57:09.311Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T09:00:59.570Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T09:00:59.595Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:17:59.227Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:17:59.243Z'
+}
+{
+  message: 'GET /api/price/getprice/66cfeaac66356e6ed2b54279 404 67 - 17.344 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:37:40.425Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:41:05.673Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:41:05.687Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:42:04.736Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:42:04.749Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:43:10.464Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:43:10.478Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:43:54.909Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:43:54.923Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:44:49.769Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T11:44:49.784Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T12:08:29.193Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T12:08:29.229Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T12:09:01.027Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T12:09:01.060Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T12:09:29.537Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T12:09:29.569Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T12:09:45.062Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T12:09:45.101Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T12:09:50.904Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T12:09:50.936Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:33:46.605Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:33:46.629Z'
+}
+{
+  message: 'POST /api/category/createcategory 500 73 - 9.402 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:34:21.956Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:35:56.359Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:35:56.373Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 29.633 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:36:04.233Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:36:50.556Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:36:50.569Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:40:25.044Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:40:25.057Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 19.526 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:40:32.182Z'
+}
+{
+  message: 'POST /api/category/createcategory 500 73 - 22.649 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:40:55.772Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 3.209 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:41:39.033Z'
+}
+{
+  message: 'POST /api/category/createcategory 500 73 - 4.426 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:42:02.242Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:43:03.866Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:43:03.879Z'
+}
+{
+  message: 'POST /api/category/createcategory 400 75 - 18.299 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:43:07.426Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:43:54.727Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:43:54.740Z'
+}
+{
+  message: 'POST /api/category/createcategory 500 73 - 23.685 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:44:00.400Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:54:28.795Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:54:28.809Z'
+}
+{
+  message: 'POST /api/category/createcategory 500 73 - 24.185 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:54:42.628Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:55:32.241Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:55:32.254Z'
+}
+{
+  message: 'POST /api/category/createcategory 500 73 - 30.779 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:55:36.728Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:56:46.670Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:56:46.684Z'
+}
+{
+  message: 'POST /api/category/createcategory 500 73 - 24.304 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:56:55.683Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:57:24.547Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:57:24.561Z'
+}
+{
+  message: 'POST /api/category/createcategory 500 73 - 23.527 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:57:33.225Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:58:07.296Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:58:07.309Z'
+}
+{
+  message: 'POST /api/category/createcategory 500 73 - 25.242 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T16:58:10.177Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T17:01:11.204Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T17:01:11.218Z'
+}
+{
+  message: 'POST /api/category/createcategory 500 73 - 22.483 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T17:01:16.928Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T17:01:41.633Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T17:01:41.646Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T17:02:48.349Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T17:02:48.362Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 29.000 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T17:03:03.442Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T17:10:24.731Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T17:10:24.745Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 19.254 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-01T17:10:28.355Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:28:36.291Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:28:36.326Z'
+}
+{
+  message: 'POST /api/user/register 400 160 - 21.229 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:29:39.030Z'
+}
+{
+  message: 'POST /api/user/register 400 254 - 5.352 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:30:02.011Z'
+}
+{
+  message: 'POST /api/user/register 201 106 - 262.436 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:30:16.956Z'
+}
+{
+  message: 'POST /api/user/login 200 257 - 229.485 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:30:24.405Z'
+}
+{
+  message: 'POST /api/user/refresh 200 263 - 11.218 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:30:54.264Z'
+}
+{
+  userId: '66d5314860df2e27bc99ea85',
+  level: 'info',
+  message: 'User authenticated',
+  timestamp: '2024-09-02T03:31:22.942Z'
+}
+{
+  message: 'GET /api/private/home 200 80 - 30.604 ms 66d5314860df2e27bc99ea85',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:31:22.946Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:34:11.762Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:34:11.797Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:34:46.026Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:34:46.058Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 54.709 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:34:59.755Z'
+}
+{
+  message: 'GET /api/category/getallcategories 200 76 - 8.797 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:35:15.984Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:42:47.696Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:42:47.727Z'
+}
+{
+  message: 'POST /api/product/addproduct 500 73 - 84.862 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:42:51.505Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:44:04.753Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:44:04.793Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1857 - 101.811 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:44:09.304Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1892 - 78.971 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T03:46:26.095Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1868 - 114.695 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T04:24:56.295Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1844 - 38.550 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T04:26:14.788Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 2604 - 40.005 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T04:27:57.213Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 2604 - 30.545 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T04:28:23.848Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 12181 - 32.125 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T04:30:02.604Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T04:31:12.311Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T04:31:12.346Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T04:31:17.397Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T04:31:17.465Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T04:31:44.745Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T04:31:44.780Z'
+}
+{
+  message: 'GET /api/product/getproduct/66d53ee7032c25866860c660 200 2563 - 44.617 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T04:32:26.904Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:01:37.694Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:01:37.715Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 12181 - 25.114 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:01:52.875Z'
+}
+{
+  message: 'GET /api/product/getallproducts?category=women 500 73 - 9.770 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:02:16.843Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:03:17.063Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:03:17.077Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:04:12.425Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:04:12.439Z'
+}
+{
+  message: 'GET /api/product/getallproducts?category=women 500 73 - 26.055 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:04:24.829Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:10:12.411Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:10:12.425Z'
+}
+{
+  message: 'GET /api/product/getallproducts?category=women 200 12181 - 23.943 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:10:19.948Z'
+}
+{
+  message: 'GET /api/product/getallproducts?category=women&color=black 200 12181 - 20.266 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:12:03.859Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 12181 - 5.486 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:17:38.411Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:17:54.666Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:17:54.680Z'
+}
+{
+  message: 'GET /api/category/getallcategories 200 76 - 9.889 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:18:23.658Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 21.285 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:18:44.134Z'
+}
+{
+  message: 'GET /api/category/getallcategories 200 100 - 1.696 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:18:47.470Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:20:20.979Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:20:20.993Z'
+}
+{
+  message: 'POST /api/product/addproduct 400 136 - 8.675 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:20:33.834Z'
+}
+{
+  message: 'POST /api/product/addproduct 400 154 - 3.126 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:20:51.077Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 80 - 45.235 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:21:22.674Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:23:13.929Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:23:13.944Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 13567 - 19.427 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:23:16.682Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:30:21.581Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:30:21.596Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:33:59.096Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:33:59.111Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:38:17.530Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:38:17.546Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 80 - 43.291 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:38:45.122Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 80 - 27.359 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:42:24.343Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:46:16.452Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:46:16.467Z'
+}
+{
+  message: 'POST /api/product/addproduct 201 1670 - 49.808 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:46:23.684Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:47:17.517Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:47:17.531Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 5039 - 18.192 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T05:47:23.749Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:02:33.213Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:02:33.228Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 5138 - 17.795 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:02:37.021Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:05:10.185Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:05:10.199Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=versace 200 53 - 9.311 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:05:22.637Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 53 - 2.824 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:05:45.545Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 53 - 2.195 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:05:47.903Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:06:08.836Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:06:08.852Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 5138 - 16.709 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:06:12.702Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=versace 200 1549 - 4.962 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:06:28.355Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=calvinklien 200 53 - 2.104 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:06:55.067Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=calvin 200 53 - 3.046 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:07:02.365Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=%22Calvin%20Klien%22 200 53 - 2.079 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:07:17.099Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 5138 - 4.808 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:07:22.166Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=%22Calvin%20klein%22 200 53 - 1.778 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:07:43.777Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=%22calvin%20klein%22 200 53 - 1.762 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:07:52.358Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 5138 - 6.093 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:08:12.313Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=%22calvin%20klein%22 200 53 - 2.280 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:08:34.606Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 5138 - 4.287 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:08:52.821Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=%22calvin%20klein%22 200 53 - 3.670 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:09:12.777Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=calvin%20klein%0A 200 53 - 1.819 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:10:19.855Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:12:07.538Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:12:07.553Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=calvin%20klein%0A 200 53 - 8.817 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:12:11.511Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:13:41.938Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:13:41.952Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=calvin%20klein%0A 200 53 - 9.779 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:13:47.114Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=calvin 200 3641 - 11.392 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:13:58.067Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=%22calvin%20klein%22 200 53 - 2.002 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:14:16.188Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=calvin 200 3641 - 4.295 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:14:24.938Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=versace 200 1549 - 3.987 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:17:29.970Z'
+}
+{
+  message: 'GET /api/product/getallproducts?tags=Gym 200 5138 - 3.266 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:17:45.916Z'
+}
+{
+  message: 'GET /api/product/getallproducts 200 5138 - 4.629 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:17:49.499Z'
+}
+{
+  message: 'GET /api/product/getallproducts?tags=On 200 5138 - 5.274 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:18:07.771Z'
+}
+{
+  message: 'GET /api/product/getallproducts?tags=On%20Sale 200 5138 - 3.439 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:18:38.618Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=calvin%20klein 200 3641 - 2.945 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:28:18.961Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=calvin%20klein&tags=on%20sale 200 3641 - 4.422 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:28:56.747Z'
+}
+{
+  message: 'GET /api/product/getallproducts?brand=calvin%20klein&tags=on%20sale%26formal 200 3641 - 3.639 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:29:29.781Z'
+}
+{
+  message: 'GET /api/product/getallproducts?tags=formal 200 5138 - 3.637 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:29:40.885Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:30:43.394Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:30:43.408Z'
+}
+{
+  message: 'GET /api/product/getallproducts?tags=formal 200 1447 - 13.634 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:30:47.106Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:35:00.079Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:35:00.093Z'
+}
+{
+  message: 'POST /api/user/register 201 106 - 105.636 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:36:20.070Z'
+}
+{
+  message: 'POST /api/user/login 200 257 - 96.676 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:36:24.142Z'
+}
+{
+  message: 'POST /api/user/refresh 200 263 - 4.717 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-02T06:36:41.956Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:06:19.102Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:06:19.141Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 59.429 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:06:36.160Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 9.946 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:06:52.378Z'
+}
+{
+  message: 'POST /api/category/createcategory 201 81 - 11.240 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:07:47.962Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:10:41.797Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:10:41.846Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:12:46.746Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:12:46.779Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:13:06.256Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:13:06.289Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:13:29.874Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:13:29.910Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:14:25.235Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:14:25.266Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:15:52.347Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:15:52.382Z'
+}
+{
+  message: 'POST /api/brand/createbrand 500 73 - 17.449 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:18:14.569Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:19:16.814Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:19:16.848Z'
+}
+{
+  message: 'POST /api/brand/createbrand 201 78 - 45.797 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:19:40.224Z'
+}
+{
+  message: 'POST /api/brand/createbrand 201 78 - 9.315 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:20:47.924Z'
+}
+{
+  message: 'POST /api/brand/createbrand 201 78 - 9.920 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:21:01.872Z'
+}
+{
+  message: 'POST /api/brand/createbrand 201 78 - 8.797 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:21:11.461Z'
+}
+{
+  message: 'POST /api/brand/createbrand 201 78 - 6.930 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:21:33.491Z'
+}
+{
+  message: 'POST /api/brand/createbrand 201 78 - 7.964 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:21:42.937Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:25:14.884Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:25:14.923Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:25:33.116Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:25:33.156Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:27:06.035Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:27:06.073Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:27:30.397Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:27:30.434Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:28:18.286Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:28:18.325Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:29:04.575Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:29:04.614Z'
+}
+{
+  message: 'POST /api/tag/createtags 201 76 - 47.605 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:31:33.013Z'
+}
+{
+  message: 'POST /api/tag/createtags 201 76 - 8.807 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:31:47.635Z'
+}
+{
+  message: 'POST /api/tag/createtags 201 76 - 44.895 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:31:57.515Z'
+}
+{
+  message: 'POST /api/tag/createtags 201 76 - 42.631 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:32:09.104Z'
+}
+{
+  message: 'POST /api/tag/createtags 201 76 - 8.263 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:32:17.458Z'
+}
+{
+  message: 'POST /api/tag/createtags 201 76 - 32.646 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:32:39.096Z'
+}
+{
+  message: 'POST /api/tag/createtags 201 76 - 7.629 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T14:32:50.029Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T16:05:56.393Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T16:05:56.408Z'
+}
+{
+  message: 'GET /api/product/getallproducts?tags=formal 200 64573 - 41.648 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T16:05:58.642Z'
+}
+{
+  message: 'Server running on port 8082',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T16:06:59.791Z'
+}
+{
+  message: 'MongoDB connected',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T16:06:59.804Z'
+}
+{
+  message: 'GET /api/product/getallproducts?tags=formal 200 53 - 8.682 ms anonymous',
+  level: 'info',
+  userId: 'unknown',
+  timestamp: '2024-09-03T16:07:01.722Z'
+}

@@ -1,0 +1,134 @@
+{
+  "Men Blue Jeans": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Jeans-black-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Jeans-black-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Jeans-black-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Jeans-black-4.jpg"
+  ],
+  "Men Black Jeans": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Jeans-blue-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Jeans-blue-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Jeans-blue-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Jeans-blue-4.jpg"
+  ],
+  "Men White Jeans": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Jeans-white-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Jeans-white-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Jeans-white-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Jeans-white-4.jpg"
+  ],
+  "Men Black Shirt": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-black-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-black-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-black-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-black-4.jpg"
+  ],
+  "Men Blue Shirt": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-blue-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-blue-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-blue-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-blue-4.jpg"
+  ],
+  "Men Green Shirt": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-green-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-green-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-green-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-green-4.jpg"
+  ],
+  "Men Light Blue Shirt": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-lightblue-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-lightblue-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-lightblue-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-lightblue-4.jpg"
+  ],
+  "Men Pink Shirt": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-pink-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-pink-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-pink-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/Shirt-pink-4.jpg"
+  ],
+  "Kids Full Dress Black": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/kids-full-black-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/kids-full-black-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/kids-full-black-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/kids-full-black-4.jpg"
+  ],
+  "Kids Full Dress Blue": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/kids-full-blue-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/kids-full-blue-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/kids-full-blue-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/kids-full-blue-4.jpg"
+  ],
+  "Women Gym Green": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-gym-green-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-gym-green-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-gym-green-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-gym-green-4.jpg"
+  ],
+  "Women Gym Pink": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-gym-pink-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-gym-pink-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-gym-pink-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-gym-pink-4.jpg"
+  ],
+  "Women Jeans Black": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-jeans-black-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-jeans-black-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-jeans-black-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-jeans-black-4.jpg"
+  ],
+  "Women Jeans Blue": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-jeans-blue-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-jeans-blue-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-jeans-blue-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-jeans-blue-4.jpg"
+  ],
+  "Women Top Green": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-top-green-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-top-green-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-top-green-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-top-green-4.jpg"
+  ],
+  "Women Top Red": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-top-red-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-top-red-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-top-red-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-top-red-4.jpg"
+  ],
+  "Women Shirt Blue": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-tshirt-blue-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-tshirt-blue-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-tshirt-blue-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-tshirt-blue-4.jpg"
+  ],
+  "Women Shirt Green": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-tshirt-green-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-tshirt-green-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-tshirt-green-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-tshirt-green-4.jpg"
+  ],
+  "Women Shirt Pink": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-tshirt-pink-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-tshirt-pink-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-tshirt-pink-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/women-tshirt-pink-4.jpg"
+  ],
+  "Men T-shirt Black": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/TShirt-black-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/TShirt-black-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/TShirt-black-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/TShirt-black-4.jpg"
+  ],
+  "Men T-shirt Blue": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/TShirt-blue-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/TShirt-blue-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/TShirt-blue-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/TShirt-blue-4.jpg"
+  ],
+  "Men T-shirt Red": [
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/TShirt-red-1.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/TShirt-red-2.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/TShirt-red-3.jpg",
+    "https://ecommerceimagesstatic.s3.ap-south-1.amazonaws.com/TShirt-red-4.jpg"
+  ]
+}
